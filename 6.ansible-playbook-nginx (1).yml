@@ -69,7 +69,7 @@
        tags:
         - nginxtask
 
-     - name: Start the Nginx Service
+     - name: Start the Nginx Service  
        shell: service nginx start
        tags:
         - service
