@@ -14,7 +14,7 @@
         update_password: on_create
         state: "{{ state_status }}"
       loop:
-        - megastar
+        - megastar 
         - superstar
         - realstar
         - powerstar
