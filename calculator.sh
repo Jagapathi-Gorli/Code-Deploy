@@ -30,7 +30,7 @@ case $ch in
    ;;
 esac
 
-#Printing result
+#Printing result  
 echo "Result: $res"
 
 
