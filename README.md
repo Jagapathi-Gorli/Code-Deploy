@@ -43,7 +43,7 @@ A collection of simple Bash scripts.
 
 ## Math
 
-1. [Addition.sh](scripts/addition.sh): perform addition of two numbers   
+1. [Addition.sh](scripts/addition.sh): perform addition of two numbers     
 1. [Subtraction.sh](scripts/subtraction.sh): perform subtraction of two numbers
 1. [Multiplication.sh](scripts/multiplication.sh): perform multiplication of two numbers
 1. [Division.sh](scripts/division.sh): perform division of two numbers
