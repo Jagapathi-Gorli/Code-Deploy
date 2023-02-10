@@ -22,7 +22,7 @@
         - stylishstar
     - name: Testing No_Log
       shell: echo "{{ my_password }}"
-      no_log: true
+      no_log: true   
 
 
 
